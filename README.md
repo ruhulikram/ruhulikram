@@ -1,16 +1,166 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ruhul Ikram</h1>
 
-<!--
-**ruhulikram/ruhulikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Information Systems Student • Full-Stack Web Developer • UI/UX Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy turning ideas and business requirements into functional, structured, and user-friendly digital products.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.instagram.com/ruhulikr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ruhul-ikram/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@ruhulikr">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.youtube.com/@ruhulikr">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruhulikram&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **Information Systems student** with a strong interest in web development, system analysis, database design, UI/UX, automation, and enterprise information systems.
+
+I enjoy building applications that are not only functional, but also structured, maintainable, and easy to use.
+
+- 🔭 Currently working on web-based information systems and academic projects
+- 🌱 Learning more about full-stack development, REST APIs, Docker, and system architecture
+- 💡 Interested in Laravel development, database design, enterprise systems, and automation
+- 🎨 Experienced with Figma, Canva, Adobe Photoshop, and Adobe Illustrator
+- 🤝 Open to collaboration on web development and open-source projects
+- 📫 Connect with me through the social links above
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css" alt="PHP, Python, JavaScript, HTML, and CSS" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,nodejs,vue,vite,jquery,fastapi" alt="Laravel, Next.js, Node.js, Vue.js, Vite, jQuery, and FastAPI" />
+</p>
+
+### Databases & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" alt="MySQL, PostgreSQL, SQLite, and Supabase" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+### Server, DevOps & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,vscode" alt="Docker, Git, GitHub, Nginx, and Visual Studio Code" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+</p>
+
+### Design & Creative Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Figma, Adobe Illustrator, and Adobe Photoshop" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D?style=for-the-badge" alt="Adobe Fonts" />
+</p>
+
+> Canva and Adobe Fonts use text-only badges to prevent missing-logo issues.
+
+---
+
+## 🚀 Areas of Interest
+
+```text
+Full-Stack Web Development
+Laravel Application Development
+REST API Development
+Database Design
+System Analysis and Design
+Enterprise Information Systems
+UI/UX Design
+DevOps and Containerization
+Automation
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=ruhulikram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Ruhul Ikram GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ruhulikram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Ruhul Ikram most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=ruhulikram&theme=tokyonight&hide_border=true"
+    alt="Ruhul Ikram GitHub contribution streak"
+  />
+</p>
+
+> GitHub statistics may take a moment to load because the cards are generated by external services.
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  If my projects, tutorials, or content have helped you, consider supporting my work through Saweria.
+  Your support helps me continue learning, building, and sharing useful projects.
+</p>
+
+<p align="center">
+  <a href="https://saweria.co/ruhulikr">
+    <img
+      src="https://img.shields.io/badge/Support%20My%20Work-Saweria-FF5E5B?style=for-the-badge&labelColor=1A1B27"
+      alt="Support Ruhul Ikram through Saweria"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Every contribution is greatly appreciated. Thank you! ❤️</b>
+</p>
+
+---
+
+<h3 align="center">Thanks for visiting my GitHub profile! 🚀</h3>
+
+<p align="center">
+  <i>Let's build useful, creative, and impactful digital solutions together.</i>
+</p>
