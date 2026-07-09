@@ -26,9 +26,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg?v=1">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg?v=1">
   </picture>
 </div>
 
