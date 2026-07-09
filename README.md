@@ -2,7 +2,9 @@
 
 ### A passionate Blade developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulikram&label=Profile views&color=0e75b6&style=flat" alt="ruhulikram" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ruhulikram&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulikram" /> 
+</p>
 
 - ⚡ Fun fact **I Love AI**
 
@@ -19,10 +21,16 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ruhulikram" alt="ruhulikram" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ruhulikram" alt="ruhulikram" />
+</div>
 
 ## 🤝 Support Me
 
