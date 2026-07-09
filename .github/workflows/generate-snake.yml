@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   # Berjalan otomatis setiap 24 jam
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   
   # Memungkinkan kamu menjalankan Action ini secara manual dari tab Actions
   workflow_dispatch:
