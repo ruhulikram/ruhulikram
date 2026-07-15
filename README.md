@@ -2,7 +2,9 @@
   <img align="right" src="./assets/profile.svg" alt="Foto Ruhul Ikram" width="250">
 </a>
 
-<h1 align="center">Hi 👋, I'm Ruhul Ikram</h1>
+<p align="center">
+  <strong>Hi 👋, I'm Ruhul Ikram</strong>
+</p>
 
 ### A passionate Blade developer
 
