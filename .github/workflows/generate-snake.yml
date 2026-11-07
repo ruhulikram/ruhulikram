@@ -2,35 +2,38 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
+    - cron: "0 0 * * *"   # setiap hari 07:00 WIB
+  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
+
+# Cegah dua run tumpang-tindih menulis ke branch output
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+
     steps:
-      # Skrip bawaan Platane untuk membuat ular
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3
+      # Versi svg-only: jalan di Node (tanpa Docker), lebih cepat & lebih jarang gagal
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa 
-            
-      # Mengirim hasil dari folder 'dist' ke branch 'output'
-      - name: push github-snake files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      # Pakai v5 (node24); v3.1.0 masih node16 yang sudah usang
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
