@@ -32,6 +32,14 @@ src="https://img.shields.io/github/followers/ruhulikram?logo=github&style=for-th
   <img src="https://streak-stats.demolab.com/?user=ruhulikram" alt="ruhulikram" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ruhulikram/ruhulikram/output/github-snake.svg" />
+  </picture>
+</div>
+
 ## 🤝 Support Me
 
 <div align="center">
